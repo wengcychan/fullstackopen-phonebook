@@ -1,6 +1,6 @@
 # Phonebook 
 
-Phonebook is an application that enables users to add names and numbers to a phonebook. It also supports filtering by name.
+Phonebook is a web application that enables users to add names and numbers to a phonebook. It also supports filtering by name.
 
 This is one of the projects in the [Full Stack Open](https://fullstackopen.com/en/) online course.
 
